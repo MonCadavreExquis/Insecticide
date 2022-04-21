@@ -1,0 +1,26 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: "Courier New", monospace;
+  font-size: 20px;
+  color : white;
+}
+
+canvas {
+  display: block;
+}
+
+a {
+  color: blue;
+  position : absolute;
+  top: 820px;
+   left: 650px;
+   font-size: 24px;
+}
+
+p{
+  position : absolute;
+  top: 0px;
+  left: 16px;
+  line-height: 1.6;
+}

@@ -1,0 +1,74 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: "Courier New", monospace;
+  font-size: 20px;
+  color : white;
+}
+
+canvas {
+  display: block;
+}
+
+#clik{
+  color: blue;
+  position : absolute;
+  top: 780px;
+   left: 985px;
+   font-size: 24px;
+}
+
+#clok{
+  color: blue;
+  position : absolute;
+  top: 780px;
+   left: 985px;
+   font-size: 24px;
+}
+
+#clak{
+  color: blue;
+  position : absolute;
+  top: 780px;
+   left: 585px;
+   font-size: 24px;
+}
+
+
+a {
+  color: blue;
+  position : absolute;
+  top: 780px;
+  left: 585px;
+  font-size: 24px;
+}
+
+#F{
+  position : absolute;
+  top: 0px;
+  left: 16px;
+  line-height: 1.6;
+}
+
+#S{
+  position : absolute;
+  top: 0px;
+  left: 776px;
+  line-height: 1.6;
+  text-align: right;
+}
+
+#T{
+  position : absolute;
+  top: 0px;
+  left: 16px;
+  line-height: 1.6;
+}
+
+#bugs{
+  position : absolute;
+  top: 256px;
+  left: 206px;
+  line-height: 1.6;
+  text-align: center;
+}
